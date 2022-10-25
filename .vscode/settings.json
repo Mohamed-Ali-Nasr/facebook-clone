@@ -1,0 +1,5 @@
+{
+  "tailwindCSS.suggestions": true,
+  "tailwindCSS.emmetCompletions": false,
+  "tailwindCSS.hovers": true
+}
